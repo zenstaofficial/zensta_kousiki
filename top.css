@@ -1,0 +1,9 @@
+@charset "UTF-8";
+
+body	{background-color: #FFC778; color: black;text-align: center;}
+h1		{font-size: 30px}
+h3		{font-size: 20px}
+h4		{border:solid 2px skyblue; font-size: 20px}
+p		{font-size: 15px}
+.gray		{color: gray;}
+.white		{background-color: #FFFFFF;}
